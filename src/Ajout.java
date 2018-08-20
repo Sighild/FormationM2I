@@ -1,4 +1,5 @@
 
-public class Ajout {
-
+public class Ajout
+{
+	public Ajout(){}
 }
